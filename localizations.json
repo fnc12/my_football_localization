@@ -1,0 +1,467 @@
+{
+    "about_us" : {
+        "russian" : "О нас",
+        "english" : "About us",
+        "kazakh" : "О нас"
+    },
+    "acception" : {
+        "russian" : "Подтверждение",
+        "english" : "Acception",
+        "kazakh" : "Подтверждение",
+    },
+    "any" : {
+        "russian" : "Любое",
+        "english" : "Any",
+        "kazakh" : "Любое"
+    },
+    "artificial_grass" : {
+        "russian" : "Искусственная трава",
+        "english" : "Artificial grass",
+        "kazakh" : "Искусственная трава"
+    },
+    "back" : {
+        "russian" : "Назад",
+        "english" : "Back",
+        "kazakh" : "Назад"
+    },
+    "before_15_minutes" : {
+        "russian" : "за 15 минут",
+        "english" : "за 15 минут",
+        "kazakh" : "за 15 минут"
+    },
+    "before_n_minutes_format" : {
+        "russian" : "за %ld минут",
+        "english" : "before %ld min",
+        "kazakh" : "за %ld минут"
+    },
+    "birth_date" : {
+        "russian" : "Дата рождения",
+        "english" : "Birth date",
+        "kazakh" : "Дата рождения"
+    },
+    "book" : {
+        "russian" : "Бронировать",
+        "english" : "Book",
+        "kazakh" : "Бронировать"
+    },
+    "book_details0" : {
+        "russian" : "Если вы не явитесь на забронированное поле без предупреждения (в виде отмены или телефонного звонка), действует следующая система предупреждений:",
+        "english" : "Если вы не явитесь на забронированное поле без предупреждения (в виде отмены или телефонного звонка), действует следующая система предупреждений:",
+        "kazakh" : "Если вы не явитесь на забронированное поле без предупреждения (в виде отмены или телефонного звонка), действует следующая система предупреждений:"
+    },
+    "book_details1" : {
+        "russian" : "В случае получения красной карточки, вы не сможете бронировать футбольные поля сроком две недели. Чтобы оспорить данное решение напишите нам в разделе ",
+        "english" : "В случае получения красной карточки, вы не сможете бронировать футбольные поля сроком две недели. Чтобы оспорить данное решение напишите нам в разделе ",
+        "kazakh" : "В случае получения красной карточки, вы не сможете бронировать футбольные поля сроком две недели. Чтобы оспорить данное решение напишите нам в разделе "
+    },
+    "bookings" : {
+        "russian" : "Бронирования",
+        "english" : "Bookings",
+        "kazakh" : "Бронирования",
+    },
+    "booking_notifications" : {
+        "russian" : "Уведомления о брони",
+        "english" : "Уведомления о брони",
+        "kazakh" : "Уведомления о брони"
+    },
+    "by_name" : {
+        "russian" : "По названию",
+        "english" : "By name",
+        "kazakh" : "По названию"
+    },
+    "by_radius" : {
+        "russian" : "По удаленности",
+        "english" : "By radius",
+        "kazakh" : "По удаленности"
+    },
+    "by_rating" : {
+        "russian" : "По рейтингу",
+        "english" : "By rating",
+        "kazakh" : "По рейтингу"
+    },
+    "by_pressing_next_you_agree" : {
+        "russian" : "Нажимая \"Далее\" вы соглашаетесь с ",
+        "english" : "By pressing \"Next\" you agree with ",
+        "kazakh" : "Нажимая \"Далее\" вы соглашаетесь с "
+    },
+    "by_price" : {
+        "russian" : "По цене",
+        "english" : "By price",
+        "kazakh" : "По цене"
+    },
+    "cancel" : {
+        "russian" : "Отмена",
+        "english" : "Cancel",
+        "kazakh" : "Отмена"
+    },
+    "change_language" : {
+        "russian" : "Изменить язык",
+        "english" : "Change language",
+        "kazakh" : "Изменить язык"
+    },
+    "change_phone_number" : {
+        "russian" : "Изменить номер",
+        "english" : "Change phone number",
+        "kazakh" : "Изменить номер"
+    },
+    "change_phone_number_caps" : {
+        "russian" : "ИЗМЕНИТЬ НОМЕР",
+        "english" : "CHANGE PHONE NUMBER",
+        "kazakh" : "ИЗМЕНИТЬ НОМЕР"
+    },
+    "choose_from_gallery" : {
+        "russian" : "Выбрать из галереи",
+        "english" : "Choose from gallery",
+        "kazakh" : "Выбрать из галереи"
+    },
+    "coach" : {
+        "russian" : "Тренер",
+        "english" : "Тренер",
+        "kazakh" : "Тренер"
+    },
+    "covering" : {
+        "russian" : "Тип покрытия",
+        "english" : "Covering",
+        "kazakh" : "Тип покрытия"
+    },
+    "date" : {
+        "russian" : "Дата",
+        "english" : "Date",
+        "kazakh" : "Дата"
+    },
+    "details_caps" : {
+        "russian" : "ПОДРОБНЕЕ",
+        "english" : "DETAILS",
+        "kazakh" : "ПОДРОБНЕЕ",
+    },
+    "did_not_receive_sms" : {
+        "russian" : "Не получил SMS с кодом",
+        "english" : "Did not receive SMS",
+        "kazakh" : "Не получил SMS с кодом"
+    },
+    "done" : {
+        "russian" : "Готово",
+        "english" : "Done",
+        "kazakh" : "Готово"
+    },
+    "dressing_rooms" : {
+        "russian" : "Раздевалки",
+        "english" : "Dressing rooms",
+        "kazakh" : "Раздевалки"
+    },
+    "error" : {
+        "russian" : "Ошибка",
+        "english" : "Error",
+        "kazakh" : "Қате"
+    },
+    "equipment" : {
+        "russian" : "Инвентарь",
+        "english" : "Equipment",
+        "kazakh" : "Инвентарь"
+    },
+    "feedback" : {
+        "russian" : "Обратная связь",
+        "english" : "Feedback",
+        "kazakh" : "Обратная связь"
+    },
+    "feedback_caps" : {
+        "russian" : "ОБРАТНАЯ СВЯЗЬ",
+        "english" : "FEEDBACK",
+        "kazakh" : "ОБРАТНАЯ СВЯЗЬ"
+    },
+    "field_location" : {
+        "russian" : "Где расположено поле",
+        "english" : "Field location",
+        "kazakh" : "Где расположено поле"
+    },
+    "field_search" : {
+        "russian" : "Поиск полей",
+        "english" : "Fields search",
+        "kazakh" : "Поиск полей"
+    },
+    "filter" : {
+        "russian" : "Фильтровать",
+        "english" : "Filter",
+        "kazakh" : "Фильтровать"
+    },
+    "find" : {
+        "russian" : "Найти",
+        "english" : "Find",
+        "kazakh" : "Найти"
+    },
+    "find_field" : {
+        "russian" : "Найти поле",
+        "english" : "Find a field",
+        "kazakh" : "Найти поле"
+    },
+    "first_time" : {
+        "russian" : "Первый раз - устное предупреждение",
+        "english" : "Первый раз - устное предупреждение",
+        "kazakh" : "Первый раз - устное предупреждение"
+    },
+    "from" : {
+        "russian" : "От",
+        "english" : "From",
+        "kazakh" : "От"
+    },
+    "game_start" : {
+        "russian" : "Начало игры",
+        "english" : "Game start",
+        "kazakh" : "Начало игры"
+    },
+    "game_suration" : {
+        "russian" : "Длительность игры",
+        "english" : "Game duration",
+        "kazakh" : "Длительность игры"
+    },
+    "infrastructure" : {
+        "russian" : "Инфраструктура",
+        "english" : "Infrastructure",
+        "kazakh" : "Инфраструктура"
+    },
+    "input_sms_code" : {
+        "russian" : "Введите 6-ти значный код полученный в SMS",
+        "english" : "Введите 6-ти значный код полученный в SMS",
+        "kazakh" : "Введите 6-ти значный код полученный в SMS"
+    },
+    "kzt_per_hour" : {
+        "russian" : "KZT/час",
+        "english" : "KZT per hour",
+        "kazakh" : "KZT/час"
+    },
+    "lighting" : {
+        "russian" : "Освещение",
+        "english" : "Lighting",
+        "kazakh" : "Освещение"
+    },
+    "minutes" : {
+        "russian" : "минут",
+        "english" : "minutes",
+        "kazakh" : "минут",
+    },
+    "my_bookings" : {
+        "russian" : "Мои брони",
+        "english" : "My bookings",
+        "kazakh" : "Мои брони",
+    },
+    "n_fields_count_format" : {
+        "russian" : "найдено %ld полей, %@",
+        "english" : "%ld fields found, %@",
+        "kazakh" : "найдено %ld полей, %@"
+    },
+    "name" : {
+        "russian" : "Имя",
+        "english" : "Name",
+        "kazakh" : "Имя"
+    },
+    "natural_grass" : {
+        "russian" : "Трава",
+        "english" : "Natural grass",
+        "kazakh" : "Трава"
+    },
+    "next" : {
+        "russian" : "Далее",
+        "english" : "Next",
+        "kazakh" : "Далее"
+    },
+    "news" : {
+        "russian" : "Новости",
+        "english" : "News",
+        "kazakh" : "Новости"
+    },
+    "no" : {
+        "russian" : "Нет",
+        "english" : "No",
+        "kazakh" : "Жоқ"
+    },
+    "no_roof" : {
+        "russian" : "Не крытое",
+        "english" : "No roof",
+        "kazakh" : "Не крытое"
+    },
+    "not_far_from_me" : {
+        "russian" : "Рядом со мной",
+        "english" : "Not far from me",
+        "kazakh" : "Рядом со мной"
+    },
+    "not_specified" : {
+        "russian" : "не указана",
+        "english" : "not specified",
+        "kazakh" : "не указана"
+    },
+    "offer" : {
+        "russian" : "Оферта",
+        "english" : "Offer",
+        "kazakh" : "Оферта"
+    },
+    "one_hour" : {
+        "russian" : "1 час",
+        "english" : "1 hour",
+        "kazakh" : "1 час"
+    },
+    "one_and_half_hour" : {
+        "russian" : "1.5 часа",
+        "english" : "1.5 hours",
+        "kazakh" : "1.5 часа"
+    },
+    "parking" : {
+        "russian" : "Парковка",
+        "english" : "Parking",
+        "kazakh" : "Парковка"
+    },
+    "phone" : {
+        "russian" : "Телефон",
+        "english" : "Phone",
+        "kazakh" : "Телефон"
+    },
+    "phone_number" : {
+        "russian" : "Номер телефона",
+        "english" : "Phone number",
+        "kazakh" : "Номер телефона"
+    },
+    "price" : {
+        "russian" : "Цена",
+        "english" : "Price",
+        "kazakh" : "Цена"
+    },
+    "profile" : {
+        "russian" : "Профиль",
+        "english" : "Profile",
+        "kazakh" : "Профиль"
+    },
+    "register" : {
+        "russian" : "Регистрация",
+        "english" : "Register",
+        "kazakh" : "Регистрация"
+    },
+    "register_hint" : {
+        "russian" : "Регистрация займет 1 минуту. Зарегистрироваться нужно только один раз",
+        "english" : "Регистрация займет 1 минуту. Зарегистрироваться нужно только один раз",
+        "kazakh" : "Регистрация займет 1 минуту. Зарегистрироваться нужно только один раз"
+    },
+    "roof" : {
+        "russian" : "Крытое",
+        "english" : "Roof",
+        "kazakh" : "Крытое"
+    },
+    "rubber_cover" : {
+        "russian" : "Резиновое покрытие",
+        "english" : "Rubber cover",
+        "kazakh" : "Резиновое покрытие"
+    },
+    "sauna" : {
+        "russian" : "Сауна",
+        "english" : "Sauna",
+        "kazakh" : "Сауна"
+    },
+    "search" : {
+        "russian" : "Поиск",
+        "english" : "Search",
+        "kazakh" : "Поиск"
+    },
+    "search_location" : {
+        "russian" : "Место поиска",
+        "english" : "Search location",
+        "kazakh" : "Место поиска"
+    },
+    "second_time" : {
+        "russian" : "Второй раз подряд - желтая карточка",
+        "english" : "Второй раз подряд - желтая карточка",
+        "kazakh" : "Второй раз подряд - желтая карточка",
+    },
+    "settings" : {
+        "russian" : "Настройки",
+        "english" : "Settings",
+        "kazakh" : "Баптаулар"
+    },
+    "shower" : {
+        "russian" : "Душ",
+        "english" : "Shower",
+        "kazakh" : "Душ"
+    },
+    "sort" : {
+        "russian" : "Сортировать",
+        "english" : "Sort",
+        "kazakh" : "Сортировать"
+    },
+    "sms_code" : {
+        "russian" : "SMS код",
+        "english" : "SMS code",
+        "kazakh" : "SMS код"
+    },
+    "sms_code_will_be_delivered_to_your_phone" : {
+        "russian" : "На ваш номер будет отправлено SMS с кодом",
+        "english" : "На ваш номер будет отправлено SMS с кодом",
+        "kazakh" : "На ваш номер будет отправлено SMS с кодом"
+    },
+    "sport_parquet" : {
+        "russian" : "Спортивный паркет",
+        "english" : "Sport parquet",
+        "kazakh" : "Спортивный паркет"
+    },
+    "stands" : {
+        "russian" : "Трибуны",
+        "english" : "Stands",
+        "kazakh" : "Трибуны"
+    },
+    "take_a_picture" : {
+        "russian" : "Сделать фото",
+        "english" : "Take a picture",
+        "kazakh" : "Сделать фото"
+    },
+    "terms_of_use" : {
+        "russian" : "Условиями сервиса",
+        "english" : "Terms of use",
+        "kazakh" : "Условиями сервиса"
+    },
+    "third_time" : {
+        "russian" : "Третий раз подряд - красная карточка",
+        "english" : "Третий раз подряд - красная карточка",
+        "kazakh" : "Третий раз подряд - красная карточка",
+    },
+    "three_hours" : {
+        "russian" : "3 часа",
+        "english" : "3 hours",
+        "kazakh" : "3 часа"
+    },
+    "to" : {
+        "russian" : "До",
+        "english" : "To",
+        "kazakh" : "До"
+    },
+    "today" : {
+        "russian" : "Сегодня",
+        "english" : "Today",
+        "kazakh" : "Бүгін"
+    },
+    "two_and_half_hours" : {
+        "russian" : "2.5 часа",
+        "english" : "2.5 hours",
+        "kazakh" : "2.5 часа"
+    },
+    "yes" : {
+        "russian" : "Да",
+        "english" : "Yes",
+        "kazakh" : "Иә"
+    },
+    "your_name" : {
+        "russian" : "Ваше имя",
+        "english" : "Your name",
+        "kazakh" : "Ваше имя"
+    },
+    "warning1" : {
+        "russian" : "У вас устное предупреждение за неявку",
+        "english" : "У вас устное предупреждение за неявку",
+        "kazakh" : "У вас устное предупреждение за неявку"
+    },
+    "warning2" : {
+        "russian" : "У вас желтая карточка за две неявки подряд",
+        "english" : "У вас желтая карточка за две неявки подряд",
+        "kazakh" : "У вас желтая карточка за две неявки подряд"
+    },
+    "warning3" : {
+        "russian" : "У вас красная карточка за три неявки подряд",
+        "english" : "У вас красная карточка за три неявки подряд",
+        "kazakh" : "У вас красная карточка за три неявки подряд"
+    }
+}
