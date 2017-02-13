@@ -64,6 +64,11 @@
         "english" : "Уведомления о брони",
         "kazakh" : "Уведомления о брони"
     },
+    "booking_time" : {
+        "russian" : "Время брони",
+        "english" : "Booking time",
+        "kazakh" : "Время брони"
+    },
     "by_name" : {
         "russian" : "По названию",
         "english" : "By name",
@@ -174,6 +179,11 @@
         "english" : "Field location",
         "kazakh" : "Где расположено поле"
     },
+    "field_name" : {
+        "russian" : "Название поля",
+        "english" : "Field name",
+        "kazakh" : "Название поля"
+    },
     "field_search" : {
         "russian" : "Поиск полей",
         "english" : "Fields search",
@@ -213,6 +223,11 @@
         "russian" : "Длительность игры",
         "english" : "Game duration",
         "kazakh" : "Длительность игры"
+    },
+    "history" : {
+        "russian" : "История",
+        "english" : "History",
+        "kazakh" : "История"
     },
     "infrastructure" : {
         "russian" : "Инфраструктура",
