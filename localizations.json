@@ -9,6 +9,11 @@
         "english" : "Acception",
         "kazakh" : "Подтверждение",
     },
+    "accepted" : {
+        "russian" : "Подтверждено",
+        "english" : "Accepted",
+        "kazakh" : "Подтверждено"
+    },
     "any" : {
         "russian" : "Любое",
         "english" : "Any",
@@ -44,6 +49,11 @@
         "english" : "Book",
         "kazakh" : "Бронировать"
     },
+    "book_details" : {
+        "russian" : "Детали бронирования",
+        "english" : "Book details",
+        "kazakh" : "Детали бронирования"
+    },
     "book_details0" : {
         "russian" : "Если вы не явитесь на забронированное поле без предупреждения (в виде отмены или телефонного звонка), действует следующая система предупреждений:",
         "english" : "Если вы не явитесь на забронированное поле без предупреждения (в виде отмены или телефонного звонка), действует следующая система предупреждений:",
@@ -68,6 +78,11 @@
         "russian" : "Время брони",
         "english" : "Booking time",
         "kazakh" : "Время брони"
+    },
+    "booking_time_caps" : {
+        "russian" : "ВРЕМЯ БРОНИ",
+        "english" : "BOOKING TIME",
+        "kazakh" : "ВРЕМЯ БРОНИ"
     },
     "by_name" : {
         "russian" : "По названию",
@@ -99,6 +114,11 @@
         "english" : "Cancel",
         "kazakh" : "Отмена"
     },
+    "change_caps" : {
+        "russian" : "ИЗМЕНИТЬ",
+        "english" : "CHANGE",
+        "kazakh" : "ИЗМЕНИТЬ"
+    },
     "change_language" : {
         "russian" : "Изменить язык",
         "english" : "Change language",
@@ -123,6 +143,11 @@
         "russian" : "Тренер",
         "english" : "Тренер",
         "kazakh" : "Тренер"
+    },
+    "contacts" : {
+        "russian" : "Контактная информация",
+        "english" : "Contacts",
+        "kazakh" : "Контактная информация"
     },
     "covering" : {
         "russian" : "Тип покрытия",
@@ -214,6 +239,11 @@
         "english" : "From",
         "kazakh" : "От"
     },
+    "from_to_time_format" : {
+        "russian" : "с %@ до %@",
+        "english" : "from %@ to %@",
+        "kazakh" : "с %@ до %@"
+    },
     "game_start" : {
         "russian" : "Начало игры",
         "english" : "Game start",
@@ -293,6 +323,11 @@
         "russian" : "Не крытое",
         "english" : "No roof",
         "kazakh" : "Не крытое"
+    },
+    "not_accepted" : {
+        "russian" : "Не подтверждено",
+        "english" : "Not accepted",
+        "kazakh" : "Не подтверждено"
     },
     "not_far_from_me" : {
         "russian" : "Рядом со мной",
