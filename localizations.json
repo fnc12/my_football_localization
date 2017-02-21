@@ -169,6 +169,11 @@
         "english" : "Did not receive SMS",
         "kazakh" : "Не получил SMS с кодом"
     },
+    "does_not_matter" : {
+        "russian" : "Не имеет значения",
+        "english" : "Doesn't matter",
+        "kazakh" : "Не имеет значения"
+    },
     "done" : {
         "russian" : "Готово",
         "english" : "Done",
