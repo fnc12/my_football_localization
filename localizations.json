@@ -284,6 +284,11 @@
         "english" : "minutes",
         "kazakh" : "минут",
     },
+    "more" : {
+        "russian" : "...еще",
+        "english" : "...more",
+        "kazakh" : "...еще",
+    },
     "my_bookings" : {
         "russian" : "Мои брони",
         "english" : "My bookings",
