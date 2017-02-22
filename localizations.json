@@ -144,6 +144,11 @@
         "english" : "Тренер",
         "kazakh" : "Тренер"
     },
+    "contact_partner" : {
+        "russian" : "Связаться с партнером:",
+        "english" : "Contact partner",
+        "kazakh" : "Связаться с партнером:"
+    },
     "contacts" : {
         "russian" : "Контактная информация",
         "english" : "Contacts",
@@ -368,6 +373,11 @@
         "russian" : "Парковка",
         "english" : "Parking",
         "kazakh" : "Парковка"
+    },
+    "partners_website" : {
+        "russian" : "Сайт партнера:",
+        "english" : "Partner's website",
+        "kazakh" : "Сайт партнера:"
     },
     "phone" : {
         "russian" : "Телефон",
