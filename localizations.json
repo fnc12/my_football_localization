@@ -419,6 +419,11 @@
         "english" : "Price",
         "kazakh" : "Цена"
     },
+    "private_data" : {
+        "russian" : "Личные данные",
+        "english" : "Private data",
+        "kazakh" : "Личные данные"
+    },
     "profile" : {
         "russian" : "Профиль",
         "english" : "Profile",
