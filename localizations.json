@@ -304,6 +304,11 @@
         "english" : "KZT per hour",
         "kazakh" : "KZT/час"
     },
+    "language" : {
+        "russian" : "Язык",
+        "english" : "Language",
+        "kazakh" : "Язык"
+    },
     "lighting" : {
         "russian" : "Освещение",
         "english" : "Lighting",
@@ -373,6 +378,11 @@
         "russian" : "не указана",
         "english" : "not specified",
         "kazakh" : "не указана"
+    },
+    "notification_interval" : {
+        "russian" : "Уведомление о брони",
+        "english" : "Notification interval",
+        "kazakh" : "Уведомление о брони"
     },
     "offer" : {
         "russian" : "Оферта",
