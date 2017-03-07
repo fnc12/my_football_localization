@@ -479,6 +479,11 @@
         "english" : "Второй раз подряд - желтая карточка",
         "kazakh" : "Второй раз подряд - желтая карточка",
     },
+    "send_message" : {
+        "russian" : "Отправить сообщение",
+        "english" : "Send message",
+        "kazakh" : "Отправить сообщение"
+    },
     "settings" : {
         "russian" : "Настройки",
         "english" : "Settings",
