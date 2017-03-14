@@ -634,6 +634,11 @@
         "english" : "You're unable to book a field until %@",
         "kazakh" : "Вы не можете бронировать поле до %@"
     },
+    "your_booking_is_cancelled" : {
+        "russian" : "Ваша бронь отменена",
+        "english" : "Your book is cancelled",
+        "kazakh" : "Ваша бронь отменена"
+    },
     "your_name" : {
         "russian" : "Ваше имя",
         "english" : "Your name",
