@@ -304,6 +304,11 @@
         "english" : "Первый раз - устное предупреждение",
         "kazakh" : "Первый раз - устное предупреждение"
     },
+    "from_time" : {
+        "russian" : "С",
+        "english" : "From",
+        "kazakh" : "С"
+    },
     "from" : {
         "russian" : "От",
         "english" : "From",
@@ -444,6 +449,11 @@
         "english" : "Notification interval",
         "kazakh" : "Уведомление о брони"
     },
+    "number_of_bookings" : {
+        "russian" : "Количество броней",
+        "english" : "Number of bookings",
+        "kazakh" : "Количество броней"
+    },
     "offer" : {
         "russian" : "Оферта",
         "english" : "Offer",
@@ -579,6 +589,11 @@
         "english" : "На ваш номер будет отправлено SMS с кодом",
         "kazakh" : "На ваш номер будет отправлено SMS с кодом"
     },
+    "specify_period" : {
+        "russian" : "Задать период",
+        "english" : "Specify period",
+        "kazakh" : "Задать период"
+    },
     "sport_parquet" : {
         "russian" : "Спортивный паркет",
         "english" : "Sport parquet",
@@ -633,6 +648,11 @@
         "russian" : "Вы не можете бронировать поле до %@",
         "english" : "You're unable to book a field until %@",
         "kazakh" : "Вы не можете бронировать поле до %@"
+    },
+    "you_have_no_bookings" : {
+        "russian" : "Вы еще не бронировали футбольные поля",
+        "english" : "You have no bookings",
+        "kazakh" : "Вы еще не бронировали футбольные поля"
     },
     "your_booking_is_cancelled" : {
         "russian" : "Ваша бронь отменена",
