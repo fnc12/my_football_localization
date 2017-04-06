@@ -539,6 +539,11 @@
         "english" : "Rubber cover",
         "kazakh" : "Резиновое покрытие"
     },
+    "rules" : {
+        "russian" : "Правила",
+        "english" : "Rules",
+        "kazakh" : "Правила"
+    },
     "sauna" : {
         "russian" : "Сауна",
         "english" : "Sauna",
@@ -653,6 +658,11 @@
         "russian" : "Вы еще не бронировали футбольные поля",
         "english" : "You have no bookings",
         "kazakh" : "Вы еще не бронировали футбольные поля"
+    },
+    "you_have_to_book_a_field" : {
+        "russian" : "Вам требуется забронировать поле, чтобы его увидеть",
+        "english" : "You have to book a field to see it here",
+        "kazakh" : "Вам требуется забронировать поле, чтобы его увидеть"
     },
     "your_booking_is_cancelled" : {
         "russian" : "Ваша бронь отменена",
