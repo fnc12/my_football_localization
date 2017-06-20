@@ -644,6 +644,11 @@
         "english" : "2.5 hours",
         "kazakh" : "2.5 часа"
     },
+    "two_hours" : {
+        "russian" : "2 часа",
+        "english" : "2 hours",
+        "kazakh" : "2 часа"
+    },
     "yes" : {
         "russian" : "Да",
         "english" : "Yes",
